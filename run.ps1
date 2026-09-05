@@ -1,4 +1,4 @@
-# HV Tweaks Zero Delay V2 - PowerShell Launcher
+# HV Tweaks - PowerShell Launcher
 # Run with: powershell -ExecutionPolicy Bypass -File run.ps1
 
 Write-Host "===============================================" -ForegroundColor Cyan

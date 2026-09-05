@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+psutil==5.9.6
+winreg-util==1.0.0
+ping3==4.0.7
+speedtest-cli==1.0.7
